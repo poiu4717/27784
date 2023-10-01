@@ -17,28 +17,397 @@ dns:
 proxies:
   - {name: 🇭🇰 香港 01丨1x HK, server: 0gr4uqmtt8y41hcjzgazdrpjt.ourdvssss.com, port: 12022, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: haMLMXirByn6rGVh, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: c776aba2376c.microsoft.com}}
   - {name: 🇭🇰 香港 02丨1x HK, server: 0gr4uqmtt8y41hcjzgazdrpjt.ourdvssss.com, port: 12023, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: haMLMXirByn6rGVh, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: c776aba2376c.microsoft.com}}
-
   - {name: 🇭🇰 香港 03丨1x HK, server: 0gr4uqmtt8y41hcjzgazdrpjt.ourdvssss.com, port: 12024, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: haMLMXirByn6rGVh, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: c776aba2376c.microsoft.com}}
-
+  - {name: 🇭🇰 香港家宽 01丨1x HK, server: 0gr4uqmtt8y41hcjzgazdrpjt.ourdvssss.com, port: 12729, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: haMLMXirByn6rGVh, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: c776aba2376c.microsoft.com}}
+  - {name: 🇭🇰 香港家宽 02丨1x HK, server: 0gr4uqmtt8y41hcjzgazdrpjt.ourdvssss.com, port: 13105, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: haMLMXirByn6rGVh, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: c776aba2376c.microsoft.com}}
+  - {name: 🇭🇰 香港家宽 03丨1x HK, server: 0gr4uqmtt8y41hcjzgazdrpjt.ourdvssss.com, port: 13112, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: haMLMXirByn6rGVh, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: c776aba2376c.microsoft.com}}
+  - {name: 🇭🇰 香港家宽 04丨1x HK, server: 0gr4uqmtt8y41hcjzgazdrpjt.ourdvssss.com, port: 13131, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: haMLMXirByn6rGVh, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: c776aba2376c.microsoft.com}}
+  - {name: 🇭🇰 香港游戏丨2x HK, server: 0gr4uqmtt8y41hcjzgazdrpjt.ourdvssss.com, port: 12312, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: haMLMXirByn6rGVh, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: c776aba2376c.microsoft.com}}
+  - {name: 🇲🇴 澳门家宽丨3x MO, server: 0gr4uqmtt8y41hcjzgazdrpjt.ourdvssss.com, port: 50227, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: haMLMXirByn6rGVh, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: c776aba2376c.microsoft.com}}
+  - {name: 🇹🇼 台湾家宽 01丨1x TW, server: 0gr4uqmtt8y41hcjzgazdrpjt.ourdvssss.com, port: 12304, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: haMLMXirByn6rGVh, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: c776aba2376c.microsoft.com}}
+  - {name: 🇹🇼 台湾家宽 02丨1x TW, server: 0gr4uqmtt8y41hcjzgazdrpjt.ourdvssss.com, port: 12305, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: haMLMXirByn6rGVh, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: c776aba2376c.microsoft.com}}
+  - {name: 🇹🇼 台湾家宽 03丨1x TW, server: 0gr4uqmtt8y41hcjzgazdrpjt.ourdvssss.com, port: 12306, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: haMLMXirByn6rGVh, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: c776aba2376c.microsoft.com}}
+  - {name: 🇹🇼 台湾商宽丨2x TW, server: 0gr4uqmtt8y41hcjzgazdrpjt.ourdvssss.com, port: 13127, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: haMLMXirByn6rGVh, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: c776aba2376c.microsoft.com}}
+  - {name: 🇸🇬 新加坡 01丨1x SG, server: 0gr4uqmtt8y41hcjzgazdrpjt.ourdvssss.com, port: 12000, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: haMLMXirByn6rGVh, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: c776aba2376c.microsoft.com}}
+  - {name: 🇸🇬 新加坡 02丨1x SG, server: 0gr4uqmtt8y41hcjzgazdrpjt.ourdvssss.com, port: 12002, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: haMLMXirByn6rGVh, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: c776aba2376c.microsoft.com}}
+  - {name: 🇸🇬 新加坡 03丨1x SG, server: 0gr4uqmtt8y41hcjzgazdrpjt.ourdvssss.com, port: 12003, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: haMLMXirByn6rGVh, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: c776aba2376c.microsoft.com}}
+  - {name: 🇸🇬 新加坡 04丨1x SG, server: 0gr4uqmtt8y41hcjzgazdrpjt.ourdvssss.com, port: 12004, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: haMLMXirByn6rGVh, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: c776aba2376c.microsoft.com}}
+  - {name: 🇸🇬 新加坡家宽 01丨3x SG, server: 0gr4uqmtt8y41hcjzgazdrpjt.ourdvssss.com, port: 12726, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: haMLMXirByn6rGVh, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: c776aba2376c.microsoft.com}}
+  - {name: 🇸🇬 新加坡家宽 02丨3x SG, server: 0gr4uqmtt8y41hcjzgazdrpjt.ourdvssss.com, port: 13116, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: haMLMXirByn6rGVh, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: c776aba2376c.microsoft.com}}
+  - {name: 🇸🇬 新加坡家宽 03丨3x SG, server: 0gr4uqmtt8y41hcjzgazdrpjt.ourdvssss.com, port: 13132, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: haMLMXirByn6rGVh, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: c776aba2376c.microsoft.com}}
+  - {name: 🇲🇾 马来西亚丨1x MY, server: 0gr4uqmtt8y41hcjzgazdrpjt.ourdvssss.com, port: 12321, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: haMLMXirByn6rGVh, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: c776aba2376c.microsoft.com}}
+  - {name: 🇲🇾 马来西亚家宽丨3x MY, server: 0gr4uqmtt8y41hcjzgazdrpjt.ourdvssss.com, port: 12727, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: haMLMXirByn6rGVh, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: c776aba2376c.microsoft.com}}
+  - {name: 🇹🇭 泰国丨2x TH, server: 0gr4uqmtt8y41hcjzgazdrpjt.ourdvssss.com, port: 12313, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: haMLMXirByn6rGVh, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: c776aba2376c.microsoft.com}}
+  - {name: 🇯🇵 日本 01丨1x JP, server: upos-hz-mirrorakam.akamaizcd.com, port: 12011, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: haMLMXirByn6rGVh, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: c776aba2376c.microsoft.com}}
+  - {name: 🇯🇵 日本 02丨1x JP, server: upos-hz-mirrorakam.akamaizcd.com, port: 12010, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: haMLMXirByn6rGVh, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: c776aba2376c.microsoft.com}}
+  - {name: 🇯🇵 日本 03丨1x JP, server: upos-hz-mirrorakam.akamaizcd.com, port: 12012, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: haMLMXirByn6rGVh, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: c776aba2376c.microsoft.com}}
+  - {name: 🇯🇵 日本 04丨1x JP, server: upos-hz-mirrorakam.akamaizcd.com, port: 12013, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: haMLMXirByn6rGVh, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: c776aba2376c.microsoft.com}}
+  - {name: 🇯🇵 日本 05丨1x JP, server: upos-hz-mirrorakam.akamaizcd.com, port: 12014, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: haMLMXirByn6rGVh, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: c776aba2376c.microsoft.com}}
+  - {name: 🇯🇵 日本 06丨3x JP, server: upos-hz-mirrorakam.akamaizcd.com, port: 13023, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: haMLMXirByn6rGVh, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: c776aba2376c.microsoft.com}}
+  - {name: 🇯🇵 日本 07丨3x JP, server: upos-hz-mirrorakam.akamaizcd.com, port: 13020, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: haMLMXirByn6rGVh, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: c776aba2376c.microsoft.com}}
+  - {name: 🇯🇵 日本游戏丨2x JP, server: upos-hz-mirrorakam.akamaizcd.com, port: 13024, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: haMLMXirByn6rGVh, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: c776aba2376c.microsoft.com}}
+  - {name: 🇯🇵 日本家宽丨3x JP, server: upos-hz-mirrorakam.akamaizcd.com, port: 13101, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: haMLMXirByn6rGVh, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: c776aba2376c.microsoft.com}}
+  - {name: 🇰🇷 韩国 01丨3x KR, server: upos-hz-mirrorakam.akamaizcd.com, port: 12317, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: haMLMXirByn6rGVh, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: c776aba2376c.microsoft.com}}
+  - {name: 🇰🇷 韩国 02丨1x KR, server: upos-hz-mirrorakam.akamaizcd.com, port: 12800, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: haMLMXirByn6rGVh, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: c776aba2376c.microsoft.com}}
+  - {name: 关岛丨2x GU, server: 0gr4uqmtt8y41hcjzgazdrpjt.ourdvssss.com, port: 13134, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: haMLMXirByn6rGVh, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: c776aba2376c.microsoft.com}}
+  - {name: 🇻🇳 越南丨1x VN, server: 0gr4uqmtt8y41hcjzgazdrpjt.ourdvssss.com, port: 12316, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: haMLMXirByn6rGVh, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: c776aba2376c.microsoft.com}}
+  - {name: 🇵🇭 菲律宾-克拉克丨1x PH, server: 0gr4uqmtt8y41hcjzgazdrpjt.ourdvssss.com, port: 12406, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: haMLMXirByn6rGVh, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: c776aba2376c.microsoft.com}}
+  - {name: 🇵🇭 菲律宾-马尼拉丨1x PH, server: 0gr4uqmtt8y41hcjzgazdrpjt.ourdvssss.com, port: 12020, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: haMLMXirByn6rGVh, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: c776aba2376c.microsoft.com}}
+  - {name: 🇵🇭 菲律宾-帕西格丨1x PH, server: 0gr4uqmtt8y41hcjzgazdrpjt.ourdvssss.com, port: 13124, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: haMLMXirByn6rGVh, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: c776aba2376c.microsoft.com}}
+  - {name: 🇮🇩 印尼-棉兰丨1x ID, server: 0gr4uqmtt8y41hcjzgazdrpjt.ourdvssss.com, port: 12300, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: haMLMXirByn6rGVh, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: c776aba2376c.microsoft.com}}
+  - {name: 🇮🇩 印尼-雅加达丨1x ID, server: 0gr4uqmtt8y41hcjzgazdrpjt.ourdvssss.com, port: 12301, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: haMLMXirByn6rGVh, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: c776aba2376c.microsoft.com}}
+  - {name: 🇰🇭 柬埔寨丨3x KH, server: 0gr4uqmtt8y41hcjzgazdrpjt.ourdvssss.com, port: 12701, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: haMLMXirByn6rGVh, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: c776aba2376c.microsoft.com}}
+  - {name: 🇮🇳 印度 01丨1x IN, server: 0gr4uqmtt8y41hcjzgazdrpjt.ourdvssss.com, port: 12302, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: haMLMXirByn6rGVh, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: c776aba2376c.microsoft.com}}
+  - {name: 🇮🇳 印度 02丨1x IN, server: 0gr4uqmtt8y41hcjzgazdrpjt.ourdvssss.com, port: 13106, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: haMLMXirByn6rGVh, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: c776aba2376c.microsoft.com}}
+  - {name: 🇲🇳 蒙古丨1x MN, server: 0gr4uqmtt8y41hcjzgazdrpjt.ourdvssss.com, port: 12328, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: haMLMXirByn6rGVh, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: c776aba2376c.microsoft.com}}
+  - {name: 🇯🇴 约旦丨2x JO, server: hdslb.com.w.kunlunpii.com, port: 12708, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: haMLMXirByn6rGVh, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: c776aba2376c.microsoft.com}}
+  - {name: 🇮🇷 伊朗丨5x IR, server: hdslb.com.w.kunlunpii.com, port: 12707, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: haMLMXirByn6rGVh, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: c776aba2376c.microsoft.com}}
+  - {name: 巴林丨10x BH, server: hdslb.com.w.kunlunpii.com, port: 13108, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: haMLMXirByn6rGVh, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: c776aba2376c.microsoft.com}}
+  - {name: 🇮🇱 以色列-海法丨1x IL, server: hdslb.com.w.kunlunpii.com, port: 12600, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: haMLMXirByn6rGVh, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: c776aba2376c.microsoft.com}}
+  - {name: 🇮🇱 以色列-罗什艾因丨1x IL, server: hdslb.com.w.kunlunpii.com, port: 12732, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: haMLMXirByn6rGVh, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: c776aba2376c.microsoft.com}}
+  - {name: 🇮🇱 以色列-特拉维夫丨1x IL, server: hdslb.com.w.kunlunpii.com, port: 12733, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: haMLMXirByn6rGVh, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: c776aba2376c.microsoft.com}}
+  - {name: 🇮🇱 以色列-佩塔提克瓦丨1x IL, server: hdslb.com.w.kunlunpii.com, port: 12735, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: haMLMXirByn6rGVh, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: c776aba2376c.microsoft.com}}
+  - {name: 🇹🇷 土耳其 01丨1x TR, server: hdslb.com.w.kunlunpii.com, port: 12603, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: haMLMXirByn6rGVh, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: c776aba2376c.microsoft.com}}
+  - {name: 🇹🇷 土耳其 02丨1x TR, server: hdslb.com.w.kunlunpii.com, port: 12655, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: haMLMXirByn6rGVh, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: c776aba2376c.microsoft.com}}
+  - {name: 🇳🇵 尼泊尔丨1x NP, server: 0gr4uqmtt8y41hcjzgazdrpjt.ourdvssss.com, port: 12720, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: haMLMXirByn6rGVh, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: c776aba2376c.microsoft.com}}
+  - {name: 🇧🇩 孟加拉丨2x BD, server: 0gr4uqmtt8y41hcjzgazdrpjt.ourdvssss.com, port: 12724, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: haMLMXirByn6rGVh, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: c776aba2376c.microsoft.com}}
+  - {name: 🇦🇪 阿联酋-迪拜丨3x AE, server: 0gr4uqmtt8y41hcjzgazdrpjt.ourdvssss.com, port: 12400, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: haMLMXirByn6rGVh, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: c776aba2376c.microsoft.com}}
+  - {name: 🇦🇪 阿联酋-富吉拉丨3x AE, server: 0gr4uqmtt8y41hcjzgazdrpjt.ourdvssss.com, port: 13110, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: haMLMXirByn6rGVh, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: c776aba2376c.microsoft.com}}
+  - {name: 🇦🇪 阿联酋-阿布扎比丨3x AE, server: 0gr4uqmtt8y41hcjzgazdrpjt.ourdvssss.com, port: 13100, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: haMLMXirByn6rGVh, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: c776aba2376c.microsoft.com}}
+  - {name: 🇦🇿 阿塞拜疆丨2x AZ, server: hdslb.com.w.kunlunpii.com, port: 12606, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: haMLMXirByn6rGVh, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: c776aba2376c.microsoft.com}}
+  - {name: 🇺🇸 亚美尼亚丨2x AM, server: hdslb.com.w.kunlunpii.com, port: 12737, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: haMLMXirByn6rGVh, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: c776aba2376c.microsoft.com}}
+  - {name: 🇬🇪 格鲁吉亚丨1x GE, server: hdslb.com.w.kunlunpii.com, port: 12644, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: haMLMXirByn6rGVh, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: c776aba2376c.microsoft.com}}
+  - {name: 🇵🇰 巴基斯坦丨5x PK, server: 0gr4uqmtt8y41hcjzgazdrpjt.ourdvssss.com, port: 12605, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: haMLMXirByn6rGVh, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: c776aba2376c.microsoft.com}}
+  - {name: 🇸🇦 沙特阿拉伯丨3x SA, server: 0gr4uqmtt8y41hcjzgazdrpjt.ourdvssss.com, port: 13032, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: haMLMXirByn6rGVh, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: c776aba2376c.microsoft.com}}
+  - {name: 🇰🇿 哈萨克斯坦丨1x KZ, server: hdslb.com.w.kunlunpii.com, port: 12602, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: haMLMXirByn6rGVh, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: c776aba2376c.microsoft.com}}
+  - {name: 🇰🇬 吉尔吉斯斯坦丨1x KG, server: hdslb.com.w.kunlunpii.com, port: 13120, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: haMLMXirByn6rGVh, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: c776aba2376c.microsoft.com}}
+  - {name: 乌兹别克斯坦丨1x UZ, server: 0gr4uqmtt8y41hcjzgazdrpjt.ourdvssss.com, port: 20025, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: haMLMXirByn6rGVh, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: c776aba2376c.microsoft.com}}
+  - {name: 🇦🇺 澳大利亚-悉尼丨2x AU, server: 0gr4uqmtt8y41hcjzgazdrpjt.ourdvssss.com, port: 12324, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: haMLMXirByn6rGVh, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: c776aba2376c.microsoft.com}}
+  - {name: 🇦🇺 澳大利亚-珀斯丨2x AU, server: 0gr4uqmtt8y41hcjzgazdrpjt.ourdvssss.com, port: 12402, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: haMLMXirByn6rGVh, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: c776aba2376c.microsoft.com}}
+  - {name: 🇦🇺 澳大利亚-墨尔本丨2x AU, server: 0gr4uqmtt8y41hcjzgazdrpjt.ourdvssss.com, port: 12401, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: haMLMXirByn6rGVh, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: c776aba2376c.microsoft.com}}
+  - {name: 🇦🇺 澳大利亚-布里斯班丨2x AU, server: 0gr4uqmtt8y41hcjzgazdrpjt.ourdvssss.com, port: 12325, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: haMLMXirByn6rGVh, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: c776aba2376c.microsoft.com}}
+  - {name: 🇦🇺 澳大利亚-阿德莱德丨1x AU, server: 0gr4uqmtt8y41hcjzgazdrpjt.ourdvssss.com, port: 12403, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: haMLMXirByn6rGVh, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: c776aba2376c.microsoft.com}}
+  - {name: 🇳🇿 新西兰丨2x NZ, server: 0gr4uqmtt8y41hcjzgazdrpjt.ourdvssss.com, port: 12326, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: haMLMXirByn6rGVh, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: c776aba2376c.microsoft.com}}
+  - {name: 🇳🇿 新西兰家宽丨3x NZ, server: 0gr4uqmtt8y41hcjzgazdrpjt.ourdvssss.com, port: 20023, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: haMLMXirByn6rGVh, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: c776aba2376c.microsoft.com}}
+  - {name: 🇫🇷 法国 01丨1x FR, server: hdslb.com.w.kunlunpii.com, port: 12621, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: haMLMXirByn6rGVh, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: c776aba2376c.microsoft.com}}
+  - {name: 🇫🇷 法国 02丨1x FR, server: hdslb.com.w.kunlunpii.com, port: 12740, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: haMLMXirByn6rGVh, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: c776aba2376c.microsoft.com}}
+  - {name: 🇬🇧 英国 01丨1x GB, server: hdslb.com.w.kunlunpii.com, port: 12710, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: haMLMXirByn6rGVh, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: c776aba2376c.microsoft.com}}
+  - {name: 🇬🇧 英国 02丨1x GB, server: hdslb.com.w.kunlunpii.com, port: 12267, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: haMLMXirByn6rGVh, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: c776aba2376c.microsoft.com}}
+  - {name: 🇬🇧 英国 03丨1x GB, server: hdslb.com.w.kunlunpii.com, port: 12736, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: haMLMXirByn6rGVh, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: c776aba2376c.microsoft.com}}
+  - {name: 🇬🇧 英国 04丨2x GB, server: hdslb.com.w.kunlunpii.com, port: 12470, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: haMLMXirByn6rGVh, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: c776aba2376c.microsoft.com}}
+  - {name: 🇬🇧 英国 05丨1x GB, server: hdslb.com.w.kunlunpii.com, port: 12266, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: haMLMXirByn6rGVh, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: c776aba2376c.microsoft.com}}
+  - {name: 🇬🇧 英国家宽丨3x GB, server: hdslb.com.w.kunlunpii.com, port: 12640, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: haMLMXirByn6rGVh, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: c776aba2376c.microsoft.com}}
+  - {name: 🇮🇲 马恩岛丨2x IM, server: hdslb.com.w.kunlunpii.com, port: 12623, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: haMLMXirByn6rGVh, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: c776aba2376c.microsoft.com}}
+  - {name: 🇩🇪 德国 01丨1x DE, server: hdslb.com.w.kunlunpii.com, port: 12619, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: haMLMXirByn6rGVh, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: c776aba2376c.microsoft.com}}
+  - {name: 🇩🇪 德国 02丨1x DE, server: hdslb.com.w.kunlunpii.com, port: 12620, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: haMLMXirByn6rGVh, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: c776aba2376c.microsoft.com}}
+  - {name: 🇩🇰 丹麦丨1x DK, server: hdslb.com.w.kunlunpii.com, port: 12608, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: haMLMXirByn6rGVh, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: c776aba2376c.microsoft.com}}
+  - {name: 🇳🇴 挪威丨1x NO, server: hdslb.com.w.kunlunpii.com, port: 12610, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: haMLMXirByn6rGVh, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: c776aba2376c.microsoft.com}}
+  - {name: 🇸🇪 瑞典丨1x SE, server: hdslb.com.w.kunlunpii.com, port: 12611, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: haMLMXirByn6rGVh, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: c776aba2376c.microsoft.com}}
+  - {name: 🇫🇮 芬兰丨2x FI, server: hdslb.com.w.kunlunpii.com, port: 12609, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: haMLMXirByn6rGVh, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: c776aba2376c.microsoft.com}}
+  - {name: 🇮🇸 冰岛丨2x IS, server: hdslb.com.w.kunlunpii.com, port: 12607, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: haMLMXirByn6rGVh, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: c776aba2376c.microsoft.com}}
+  - {name: 🇨🇭 瑞士丨2x CH, server: hdslb.com.w.kunlunpii.com, port: 12630, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: haMLMXirByn6rGVh, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: c776aba2376c.microsoft.com}}
+  - {name: 🇨🇿 捷克丨1x CZ, server: hdslb.com.w.kunlunpii.com, port: 12613, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: haMLMXirByn6rGVh, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: c776aba2376c.microsoft.com}}
+  - {name: 🇬🇷 希腊丨2x GR, server: hdslb.com.w.kunlunpii.com, port: 12615, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: haMLMXirByn6rGVh, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: c776aba2376c.microsoft.com}}
+  - {name: 🇳🇱 荷兰丨1x NL, server: hdslb.com.w.kunlunpii.com, port: 12622, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: haMLMXirByn6rGVh, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: c776aba2376c.microsoft.com}}
+  - {name: 🇵🇱 波兰丨1x PL, server: hdslb.com.w.kunlunpii.com, port: 12261, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: haMLMXirByn6rGVh, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: c776aba2376c.microsoft.com}}
+  - {name: 🇷🇺 俄罗斯-莫斯科丨1x RU, server: hdslb.com.w.kunlunpii.com, port: 12034, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: haMLMXirByn6rGVh, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: c776aba2376c.microsoft.com}}
+  - {name: 🇷🇺 俄罗斯-叶卡捷琳堡丨1x RU, server: hdslb.com.w.kunlunpii.com, port: 13122, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: haMLMXirByn6rGVh, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: c776aba2376c.microsoft.com}}
+  - {name: 🇺🇦 乌克兰丨1x UA, server: hdslb.com.w.kunlunpii.com, port: 12614, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: haMLMXirByn6rGVh, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: c776aba2376c.microsoft.com}}
+  - {name: 🇭🇺 匈牙利丨1x HU, server: hdslb.com.w.kunlunpii.com, port: 12631, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: haMLMXirByn6rGVh, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: c776aba2376c.microsoft.com}}
+  - {name: 🇱🇺 卢森堡丨2x LU, server: hdslb.com.w.kunlunpii.com, port: 12629, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: haMLMXirByn6rGVh, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: c776aba2376c.microsoft.com}}
+  - {name: 🇦🇹 奥地利丨2x AT, server: hdslb.com.w.kunlunpii.com, port: 12628, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: haMLMXirByn6rGVh, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: c776aba2376c.microsoft.com}}
+  - {name: 🇮🇹 意大利丨1x IT, server: hdslb.com.w.kunlunpii.com, port: 12616, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: haMLMXirByn6rGVh, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: c776aba2376c.microsoft.com}}
+  - {name: 梵蒂冈丨1x VA, server: hdslb.com.w.kunlunpii.com, port: 13121, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: haMLMXirByn6rGVh, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: c776aba2376c.microsoft.com}}
+  - {name: 🇧🇪 比利时丨1x BE, server: hdslb.com.w.kunlunpii.com, port: 12618, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: haMLMXirByn6rGVh, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: c776aba2376c.microsoft.com}}
+  - {name: 🇮🇪 爱尔兰丨2x IE, server: hdslb.com.w.kunlunpii.com, port: 12617, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: haMLMXirByn6rGVh, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: c776aba2376c.microsoft.com}}
+  - {name: 🇱🇹 立陶宛丨1x LT, server: hdslb.com.w.kunlunpii.com, port: 12652, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: haMLMXirByn6rGVh, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: c776aba2376c.microsoft.com}}
+  - {name: 🇪🇸 西班牙丨1x ES, server: hdslb.com.w.kunlunpii.com, port: 12625, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: haMLMXirByn6rGVh, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: c776aba2376c.microsoft.com}}
+  - {name: 🇵🇹 葡萄牙丨1x PT, server: hdslb.com.w.kunlunpii.com, port: 12624, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: haMLMXirByn6rGVh, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: c776aba2376c.microsoft.com}}
+  - {name: 尼日利亚动态, server: proxy.soax.com, port: 9125, username: JfTvHKMoGU60MLxq, password: wifi;ng;;;, type: socks5, skip-cert-verify: false, udp: true}
+  - {name: 安道尔丨3x AD, server: hdslb.com.w.kunlunpii.com, port: 12738, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: haMLMXirByn6rGVh, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: c776aba2376c.microsoft.com}}
+  - {name: 马耳他丨3x MT, server: hdslb.com.w.kunlunpii.com, port: 12743, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: haMLMXirByn6rGVh, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: c776aba2376c.microsoft.com}}
+  - {name: 🇧🇬 保加利亚丨1x BG, server: hdslb.com.w.kunlunpii.com, port: 12634, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: haMLMXirByn6rGVh, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: c776aba2376c.microsoft.com}}
+  - {name: 🇭🇷 克罗地亚丨2x HR, server: hdslb.com.w.kunlunpii.com, port: 12646, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: haMLMXirByn6rGVh, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: c776aba2376c.microsoft.com}}
+  - {name: 🇲🇰 北马其顿丨2x MK, server: hdslb.com.w.kunlunpii.com, port: 12645, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: haMLMXirByn6rGVh, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: c776aba2376c.microsoft.com}}
+  - {name: 🇷🇸 塞尔维亚丨2x RS, server: hdslb.com.w.kunlunpii.com, port: 12647, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: haMLMXirByn6rGVh, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: c776aba2376c.microsoft.com}}
+  - {name: 🇨🇾 塞浦路斯丨1x CY, server: hdslb.com.w.kunlunpii.com, port: 12654, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: haMLMXirByn6rGVh, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: c776aba2376c.microsoft.com}}
+  - {name: 🇱🇻 拉脱维亚丨1x LV, server: hdslb.com.w.kunlunpii.com, port: 12649, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: haMLMXirByn6rGVh, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: c776aba2376c.microsoft.com}}
+  - {name: 🇲🇩 摩尔多瓦丨2x MD, server: hdslb.com.w.kunlunpii.com, port: 12651, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: haMLMXirByn6rGVh, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: c776aba2376c.microsoft.com}}
+  - {name: 🇸🇰 斯洛伐克丨1x SK, server: hdslb.com.w.kunlunpii.com, port: 12650, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: haMLMXirByn6rGVh, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: c776aba2376c.microsoft.com}}
+  - {name: 🇪🇪 爱沙尼亚丨1x EE, server: hdslb.com.w.kunlunpii.com, port: 12635, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: haMLMXirByn6rGVh, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: c776aba2376c.microsoft.com}}
+  - {name: 🇷🇺 白俄罗斯丨2x BY, server: hdslb.com.w.kunlunpii.com, port: 12633, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: haMLMXirByn6rGVh, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: c776aba2376c.microsoft.com}}
+  - {name: 🇷🇴 罗马尼亚丨1x RO, server: hdslb.com.w.kunlunpii.com, port: 12641, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: haMLMXirByn6rGVh, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: c776aba2376c.microsoft.com}}
+  - {name: 🇸🇮 斯洛文尼亚丨2x SI, server: hdslb.com.w.kunlunpii.com, port: 12653, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: haMLMXirByn6rGVh, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: c776aba2376c.microsoft.com}}
+  - {name: 🇦🇱 阿尔巴尼亚丨1x AL, server: hdslb.com.w.kunlunpii.com, port: 12642, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: haMLMXirByn6rGVh, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: c776aba2376c.microsoft.com}}
+  - {name: 🇧🇦 波黑共和国丨2x BA, server: hdslb.com.w.kunlunpii.com, port: 12643, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: haMLMXirByn6rGVh, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: c776aba2376c.microsoft.com}}
+  - {name: 法属留尼汪丨2x RE, server: 0gr4uqmtt8y41hcjzgazdrpjt.ourdvssss.com, port: 20026, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: haMLMXirByn6rGVh, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: c776aba2376c.microsoft.com}}
+  - {name: 🇺🇸 美国-费城丨1x US, server: upos-hz-mirrorakam.akamaizcd.com, port: 13005, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: haMLMXirByn6rGVh, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: c776aba2376c.microsoft.com}}
+  - {name: 🇺🇸 美国-纽约丨1x US, server: upos-hz-mirrorakam.akamaizcd.com, port: 13006, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: haMLMXirByn6rGVh, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: c776aba2376c.microsoft.com}}
+  - {name: 🇺🇸 美国-丹佛丨1x US, server: upos-hz-mirrorakam.akamaizcd.com, port: 13110, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: haMLMXirByn6rGVh, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: c776aba2376c.microsoft.com}}
+  - {name: 🇺🇸 美国-洛杉矶丨1x US, server: upos-hz-mirrorakam.akamaizcd.com, port: 13007, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: haMLMXirByn6rGVh, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: c776aba2376c.microsoft.com}}
+  - {name: 🇺🇸 美国-圣何塞丨1x US, server: upos-hz-mirrorakam.akamaizcd.com, port: 13008, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: haMLMXirByn6rGVh, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: c776aba2376c.microsoft.com}}
+  - {name: 🇺🇸 美国-斯波坎丨1x US, server: upos-hz-mirrorakam.akamaizcd.com, port: 13010, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: haMLMXirByn6rGVh, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: c776aba2376c.microsoft.com}}
+  - {name: 🇺🇸 美国-奥格登丨1x US, server: upos-hz-mirrorakam.akamaizcd.com, port: 13107, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: haMLMXirByn6rGVh, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: c776aba2376c.microsoft.com}}
+  - {name: 🇺🇸 美国-凤凰城丨1x US, server: upos-hz-mirrorakam.akamaizcd.com, port: 13109, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: haMLMXirByn6rGVh, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: c776aba2376c.microsoft.com}}
+  - {name: 🇺🇸 美国-西雅图丨1x US, server: upos-hz-mirrorakam.akamaizcd.com, port: 13111, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: haMLMXirByn6rGVh, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: c776aba2376c.microsoft.com}}
+  - {name: 🇺🇸 美国-芝加哥丨1x US, server: upos-hz-mirrorakam.akamaizcd.com, port: 13112, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: haMLMXirByn6rGVh, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: c776aba2376c.microsoft.com}}
+  - {name: 🇺🇸 美国-达拉斯丨1x US, server: upos-hz-mirrorakam.akamaizcd.com, port: 13011, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: haMLMXirByn6rGVh, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: c776aba2376c.microsoft.com}}
+  - {name: 🇺🇸 美国-底特律丨1x US, server: upos-hz-mirrorakam.akamaizcd.com, port: 12705, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: haMLMXirByn6rGVh, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: c776aba2376c.microsoft.com}}
+  - {name: 🇺🇸 美国-夏威夷丨3x US, server: upos-hz-mirrorakam.akamaizcd.com, port: 13108, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: haMLMXirByn6rGVh, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: c776aba2376c.microsoft.com}}
+  - {name: 🇺🇸 美国-密尔沃基丨1x US, server: upos-hz-mirrorakam.akamaizcd.com, port: 13012, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: haMLMXirByn6rGVh, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: c776aba2376c.microsoft.com}}
+  - {name: 🇺🇸 美国-圣克拉拉丨1x US, server: upos-hz-mirrorakam.akamaizcd.com, port: 12706, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: haMLMXirByn6rGVh, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: c776aba2376c.microsoft.com}}
+  - {name: 🇺🇸 美国-拉斯维加斯丨1x US, server: upos-hz-mirrorakam.akamaizcd.com, port: 13212, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: haMLMXirByn6rGVh, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: c776aba2376c.microsoft.com}}
+  - {name: 🇺🇸 美国-柯汶纳家宽丨3x US, server: upos-hz-mirrorakam.akamaizcd.com, port: 13114, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: haMLMXirByn6rGVh, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: c776aba2376c.microsoft.com}}
+  - {name: 🇺🇸 美国-亚特兰大家宽丨5x US, server: upos-hz-mirrorakam.akamaizcd.com, port: 13213, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: haMLMXirByn6rGVh, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: c776aba2376c.microsoft.com}}
+  - {name: 🇨🇦 加拿大-温哥华丨2x CA, server: upos-hz-mirrorakam.akamaizcd.com, port: 13001, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: haMLMXirByn6rGVh, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: c776aba2376c.microsoft.com}}
+  - {name: 🇨🇦 加拿大-多伦多丨1x CA, server: upos-hz-mirrorakam.akamaizcd.com, port: 13000, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: haMLMXirByn6rGVh, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: c776aba2376c.microsoft.com}}
+  - {name: 🇨🇦 加拿大-蒙特利尔丨1x CA, server: upos-hz-mirrorakam.akamaizcd.com, port: 13200, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: haMLMXirByn6rGVh, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: c776aba2376c.microsoft.com}}
+  - {name: 🇨🇦 加拿大家宽丨3x CA, server: upos-hz-mirrorakam.akamaizcd.com, port: 13117, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: haMLMXirByn6rGVh, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: c776aba2376c.microsoft.com}}
+  - {name: 🇲🇽 墨西哥丨3x MX, server: upos-hz-mirrorakam.akamaizcd.com, port: 13004, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: haMLMXirByn6rGVh, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: c776aba2376c.microsoft.com}}
+  - {name: 🇵🇦 巴拿马丨3x PA, server: upos-hz-mirrorakam.akamaizcd.com, port: 12704, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: haMLMXirByn6rGVh, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: c776aba2376c.microsoft.com}}
+  - {name: 埃及动态, server: proxy.soax.com, port: 9120, username: JfTvHKMoGU60MLxq, password: wifi;eg;;;, type: socks5, skip-cert-verify: false, udp: true}
+  - {name: 🇨🇷 哥斯达黎加丨1x CR, server: upos-hz-mirrorakam.akamaizcd.com, port: 12719, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: haMLMXirByn6rGVh, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: c776aba2376c.microsoft.com}}
+  - {name: 🇧🇷 巴西-维涅杜丨1x BR, server: upos-hz-mirrorakam.akamaizcd.com, port: 13103, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: haMLMXirByn6rGVh, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: c776aba2376c.microsoft.com}}
+  - {name: 🇧🇷 巴西-圣保罗丨1x BR, server: upos-hz-mirrorakam.akamaizcd.com, port: 13116, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: haMLMXirByn6rGVh, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: c776aba2376c.microsoft.com}}
+  - {name: 🇧🇷 巴西-萨尔瓦多丨1x BR, server: upos-hz-mirrorakam.akamaizcd.com, port: 13217, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: haMLMXirByn6rGVh, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: c776aba2376c.microsoft.com}}
+  - {name: 🇧🇷 巴西-里约热内卢丨1x BR, server: upos-hz-mirrorakam.akamaizcd.com, port: 13013, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: haMLMXirByn6rGVh, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: c776aba2376c.microsoft.com}}
+  - {name: 🇨🇱 智利丨2x CL, server: upos-hz-mirrorakam.akamaizcd.com, port: 13104, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: haMLMXirByn6rGVh, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: c776aba2376c.microsoft.com}}
+  - {name: 🇵🇪 秘鲁丨5x PE, server: upos-hz-mirrorakam.akamaizcd.com, port: 13016, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: haMLMXirByn6rGVh, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: c776aba2376c.microsoft.com}}
+  - {name: 🇦🇷 阿根廷 01丨2x AR, server: upos-hz-mirrorakam.akamaizcd.com, port: 13015, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: haMLMXirByn6rGVh, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: c776aba2376c.microsoft.com}}
+  - {name: 加纳动态, server: proxy.soax.com, port: 9130, username: JfTvHKMoGU60MLxq, password: wifi;gh;;;, type: socks5, skip-cert-verify: false, udp: true}
+  - {name: 🇦🇷 阿根廷 02丨5x AR, server: upos-hz-mirrorakam.akamaizcd.com, port: 13211, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: haMLMXirByn6rGVh, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: c776aba2376c.microsoft.com}}
+  - {name: 🇺🇾 乌拉圭丨2x UY, server: upos-hz-mirrorakam.akamaizcd.com, port: 12715, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: haMLMXirByn6rGVh, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: c776aba2376c.microsoft.com}}
+  - {name: 荷属库拉索丨2x CW, server: upos-hz-mirrorakam.akamaizcd.com, port: 13115, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: haMLMXirByn6rGVh, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: c776aba2376c.microsoft.com}}
+  - {name: 🇨🇴 哥伦比亚丨1x CO, server: upos-hz-mirrorakam.akamaizcd.com, port: 13050, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: haMLMXirByn6rGVh, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: c776aba2376c.microsoft.com}}
+  - {name: 🇪🇨 厄瓜多尔丨5x EC, server: upos-hz-mirrorakam.akamaizcd.com, port: 13106, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: haMLMXirByn6rGVh, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: c776aba2376c.microsoft.com}}
+  - {name: 委内瑞拉丨3x VE, server: upos-hz-mirrorakam.akamaizcd.com, port: 12720, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: haMLMXirByn6rGVh, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: c776aba2376c.microsoft.com}}
+  - {name: 危地马拉丨1x GT, server: upos-hz-mirrorakam.akamaizcd.com, port: 13218, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: haMLMXirByn6rGVh, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: c776aba2376c.microsoft.com}}
+  - {name: 🇵🇷 波多黎各丨2x PR, server: upos-hz-mirrorakam.akamaizcd.com, port: 13219, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: haMLMXirByn6rGVh, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: c776aba2376c.microsoft.com}}
+  - {name: 🇪🇬 埃及丨3x EG, server: hdslb.com.w.kunlunpii.com, port: 12718, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: haMLMXirByn6rGVh, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: c776aba2376c.microsoft.com}}
+  - {name: 斯里兰卡动态, server: proxy.soax.com, port: 9060, username: JfTvHKMoGU60MLxq, password: wifi;lk;;;, type: socks5, skip-cert-verify: false, udp: true}
+  - {name: 缅甸动态, server: proxy.soax.com, port: 9050, username: JfTvHKMoGU60MLxq, password: wifi;mm;;;, type: socks5, skip-cert-verify: false, udp: true}
+  - {name: 🇿🇦 南非-开普敦丨1x ZA, server: hdslb.com.w.kunlunpii.com, port: 13104, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: haMLMXirByn6rGVh, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: c776aba2376c.microsoft.com}}
+  - {name: 🇿🇦 南非-约翰内斯堡丨1x ZA, server: hdslb.com.w.kunlunpii.com, port: 12036, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: haMLMXirByn6rGVh, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: c776aba2376c.microsoft.com}}
+  - {name: 🇲🇦 摩洛哥丨2x MA, server: hdslb.com.w.kunlunpii.com, port: 12731, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: haMLMXirByn6rGVh, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: c776aba2376c.microsoft.com}}
+  - {name: 🇹🇳 突尼斯丨2x TN, server: hdslb.com.w.kunlunpii.com, port: 12703, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: haMLMXirByn6rGVh, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: c776aba2376c.microsoft.com}}
+  - {name: 利比亚丨2x LY, server: hdslb.com.w.kunlunpii.com, port: 12742, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: haMLMXirByn6rGVh, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: c776aba2376c.microsoft.com}}
+  - {name: 🇰🇪 肯尼亚丨1x KE, server: hdslb.com.w.kunlunpii.com, port: 12716, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: haMLMXirByn6rGVh, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: c776aba2376c.microsoft.com}}
+  - {name: 土耳其动态, server: proxy.soax.com, port: 9150, username: JfTvHKMoGU60MLxq, password: wifi;tr;;;, type: socks5, skip-cert-verify: false, udp: true}
+  - {name: 卢旺达丨2x RW, server: 0gr4uqmtt8y41hcjzgazdrpjt.ourdvssss.com, port: 13133, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: haMLMXirByn6rGVh, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: c776aba2376c.microsoft.com}}
+  - {name: 🇯🇵 尼日利亚丨2x NG, server: hdslb.com.w.kunlunpii.com, port: 12648, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: haMLMXirByn6rGVh, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: c776aba2376c.microsoft.com}}
+  - {name: 毛里求斯丨2x MU, server: hdslb.com.w.kunlunpii.com, port: 13118, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: haMLMXirByn6rGVh, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: c776aba2376c.microsoft.com}}
 proxy-groups:
-
+  - name: Googleplay
+    type: select
+    proxies:
+      - 🇭🇰 香港 01丨1x HK
+      - 🇭🇰 香港 02丨1x HK
+      - 🇭🇰 香港 03丨1x HK
+      - 🇭🇰 香港家宽 01丨1x HK
+      - 🇭🇰 香港家宽 02丨1x HK
+      - 🇭🇰 香港家宽 03丨1x HK
+      - 🇭🇰 香港家宽 04丨1x HK
   - name: Proxies
     type: select
     proxies:
       - 🇭🇰 香港 01丨1x HK
       - 🇭🇰 香港 02丨1x HK
       - 🇭🇰 香港 03丨1x HK
+      - 🇭🇰 香港家宽 01丨1x HK
+      - 🇭🇰 香港家宽 02丨1x HK
+      - 🇭🇰 香港家宽 03丨1x HK
+      - 🇭🇰 香港家宽 04丨1x HK
+      - 🇭🇰 香港游戏丨2x HK
+      - 🇲🇴 澳门家宽丨3x MO
+      - 🇹🇼 台湾家宽 01丨1x TW
+      - 🇹🇼 台湾家宽 02丨1x TW
+      - 🇹🇼 台湾家宽 03丨1x TW
+      - 🇹🇼 台湾商宽丨2x TW
+      - 🇸🇬 新加坡 01丨1x SG
+      - 🇸🇬 新加坡 02丨1x SG
+      - 🇸🇬 新加坡 03丨1x SG
+      - 🇸🇬 新加坡 04丨1x SG
+      - 🇸🇬 新加坡家宽 01丨3x SG
+      - 🇸🇬 新加坡家宽 02丨3x SG
+      - 🇸🇬 新加坡家宽 03丨3x SG
+      - 🇲🇾 马来西亚丨1x MY
+      - 🇲🇾 马来西亚家宽丨3x MY
+      - 🇹🇭 泰国丨2x TH
+      - 🇯🇵 日本 01丨1x JP
+      - 🇯🇵 日本 02丨1x JP
+      - 🇯🇵 日本 03丨1x JP
+      - 🇯🇵 日本 04丨1x JP
+      - 🇯🇵 日本 05丨1x JP
+      - 🇯🇵 日本 06丨3x JP
+      - 🇯🇵 日本 07丨3x JP
+      - 🇯🇵 日本游戏丨2x JP
+      - 🇯🇵 日本家宽丨3x JP
+      - 🇰🇷 韩国 01丨3x KR
+      - 🇰🇷 韩国 02丨1x KR
+      - 关岛丨2x GU
+      - 🇻🇳 越南丨1x VN
+      - 🇵🇭 菲律宾-克拉克丨1x PH
+      - 🇵🇭 菲律宾-马尼拉丨1x PH
+      - 🇵🇭 菲律宾-帕西格丨1x PH
+      - 🇮🇩 印尼-棉兰丨1x ID
+      - 🇮🇩 印尼-雅加达丨1x ID
+      - 🇰🇭 柬埔寨丨3x KH
+      - 🇮🇳 印度 01丨1x IN
+      - 🇮🇳 印度 02丨1x IN
+      - 🇲🇳 蒙古丨1x MN
+      - 🇯🇴 约旦丨2x JO
+      - 🇮🇷 伊朗丨5x IR
+      - 巴林丨10x BH
+      - 🇮🇱 以色列-海法丨1x IL
+      - 🇮🇱 以色列-罗什艾因丨1x IL
+      - 🇮🇱 以色列-特拉维夫丨1x IL
+      - 🇮🇱 以色列-佩塔提克瓦丨1x IL
+      - 🇹🇷 土耳其 01丨1x TR
+      - 🇹🇷 土耳其 02丨1x TR
+      - 🇳🇵 尼泊尔丨1x NP
+      - 🇧🇩 孟加拉丨2x BD
+      - 🇦🇪 阿联酋-迪拜丨3x AE
+      - 🇦🇪 阿联酋-富吉拉丨3x AE
+      - 🇦🇪 阿联酋-阿布扎比丨3x AE
+      - 🇦🇿 阿塞拜疆丨2x AZ
+      - 🇺🇸 亚美尼亚丨2x AM
+      - 🇬🇪 格鲁吉亚丨1x GE
+      - 🇵🇰 巴基斯坦丨5x PK
+      - 🇸🇦 沙特阿拉伯丨3x SA
+      - 🇰🇿 哈萨克斯坦丨1x KZ
+      - 🇰🇬 吉尔吉斯斯坦丨1x KG
+      - 乌兹别克斯坦丨1x UZ
+      - 🇦🇺 澳大利亚-悉尼丨2x AU
+      - 🇦🇺 澳大利亚-珀斯丨2x AU
+      - 🇦🇺 澳大利亚-墨尔本丨2x AU
+      - 🇦🇺 澳大利亚-布里斯班丨2x AU
+      - 🇦🇺 澳大利亚-阿德莱德丨1x AU
+      - 🇳🇿 新西兰丨2x NZ
+      - 🇳🇿 新西兰家宽丨3x NZ
+      - 🇫🇷 法国 01丨1x FR
+      - 🇫🇷 法国 02丨1x FR
+      - 🇬🇧 英国 01丨1x GB
+      - 🇬🇧 英国 02丨1x GB
+      - 🇬🇧 英国 03丨1x GB
+      - 🇬🇧 英国 04丨2x GB
+      - 🇬🇧 英国 05丨1x GB
+      - 🇬🇧 英国家宽丨3x GB
+      - 🇮🇲 马恩岛丨2x IM
+      - 🇩🇪 德国 01丨1x DE
+      - 🇩🇪 德国 02丨1x DE
+      - 🇩🇰 丹麦丨1x DK
+      - 🇳🇴 挪威丨1x NO
+      - 🇸🇪 瑞典丨1x SE
+      - 🇫🇮 芬兰丨2x FI
+      - 🇮🇸 冰岛丨2x IS
+      - 🇨🇭 瑞士丨2x CH
+      - 🇨🇿 捷克丨1x CZ
+      - 🇬🇷 希腊丨2x GR
+      - 🇳🇱 荷兰丨1x NL
+      - 🇵🇱 波兰丨1x PL
+      - 🇷🇺 俄罗斯-莫斯科丨1x RU
+      - 🇷🇺 俄罗斯-叶卡捷琳堡丨1x RU
+      - 🇺🇦 乌克兰丨1x UA
+      - 🇭🇺 匈牙利丨1x HU
+      - 🇱🇺 卢森堡丨2x LU
+      - 🇦🇹 奥地利丨2x AT
+      - 🇮🇹 意大利丨1x IT
+      - 梵蒂冈丨1x VA
+      - 🇧🇪 比利时丨1x BE
+      - 🇮🇪 爱尔兰丨2x IE
+      - 🇱🇹 立陶宛丨1x LT
+      - 🇪🇸 西班牙丨1x ES
+      - 🇵🇹 葡萄牙丨1x PT
+      - 安道尔丨3x AD
+      - 马耳他丨3x MT
+      - 🇧🇬 保加利亚丨1x BG
+      - 🇭🇷 克罗地亚丨2x HR
+      - 🇲🇰 北马其顿丨2x MK
+      - 🇷🇸 塞尔维亚丨2x RS
+      - 🇨🇾 塞浦路斯丨1x CY
+      - 🇱🇻 拉脱维亚丨1x LV
+      - 🇲🇩 摩尔多瓦丨2x MD
+      - 🇸🇰 斯洛伐克丨1x SK
+      - 🇪🇪 爱沙尼亚丨1x EE
+      - 🇷🇺 白俄罗斯丨2x BY
+      - 🇷🇴 罗马尼亚丨1x RO
+      - 🇸🇮 斯洛文尼亚丨2x SI
+      - 🇦🇱 阿尔巴尼亚丨1x AL
+      - 🇧🇦 波黑共和国丨2x BA
+      - 法属留尼汪丨2x RE
+      - 🇺🇸 美国-费城丨1x US
+      - 🇺🇸 美国-纽约丨1x US
+      - 🇺🇸 美国-丹佛丨1x US
+      - 🇺🇸 美国-洛杉矶丨1x US
+      - 🇺🇸 美国-圣何塞丨1x US
+      - 🇺🇸 美国-斯波坎丨1x US
+      - 🇺🇸 美国-奥格登丨1x US
+      - 🇺🇸 美国-凤凰城丨1x US
+      - 🇺🇸 美国-西雅图丨1x US
+      - 🇺🇸 美国-芝加哥丨1x US
+      - 🇺🇸 美国-达拉斯丨1x US
+      - 🇺🇸 美国-底特律丨1x US
+      - 🇺🇸 美国-夏威夷丨3x US
+      - 🇺🇸 美国-密尔沃基丨1x US
+      - 🇺🇸 美国-圣克拉拉丨1x US
+      - 🇺🇸 美国-拉斯维加斯丨1x US
+      - 🇺🇸 美国-柯汶纳家宽丨3x US
+      - 🇺🇸 美国-亚特兰大家宽丨5x US
+      - 🇨🇦 加拿大-温哥华丨2x CA
+      - 🇨🇦 加拿大-多伦多丨1x CA
+      - 🇨🇦 加拿大-蒙特利尔丨1x CA
+      - 🇨🇦 加拿大家宽丨3x CA
+      - 🇲🇽 墨西哥丨3x MX
+      - 🇵🇦 巴拿马丨3x PA
+      - 🇨🇷 哥斯达黎加丨1x CR
+      - 🇧🇷 巴西-维涅杜丨1x BR
+      - 🇧🇷 巴西-圣保罗丨1x BR
+      - 🇧🇷 巴西-萨尔瓦多丨1x BR
+      - 🇧🇷 巴西-里约热内卢丨1x BR
+      - 🇨🇱 智利丨2x CL
+      - 🇵🇪 秘鲁丨5x PE
+      - 🇦🇷 阿根廷 01丨2x AR
+      - 🇦🇷 阿根廷 02丨5x AR
+      - 🇺🇾 乌拉圭丨2x UY
+      - 荷属库拉索丨2x CW
+      - 🇨🇴 哥伦比亚丨1x CO
+      - 🇪🇨 厄瓜多尔丨5x EC
+      - 委内瑞拉丨3x VE
+      - 危地马拉丨1x GT
+      - 🇵🇷 波多黎各丨2x PR
+      - 🇪🇬 埃及丨3x EG
+      - 🇿🇦 南非-开普敦丨1x ZA
+      - 🇿🇦 南非-约翰内斯堡丨1x ZA
+      - 🇲🇦 摩洛哥丨2x MA
+      - 🇹🇳 突尼斯丨2x TN
+      - 利比亚丨2x LY
+      - 🇰🇪 肯尼亚丨1x KE
+      - 卢旺达丨2x RW
+      - 🇯🇵 尼日利亚丨2x NG
+      - 毛里求斯丨2x MU
 rules:
-
+  - DOMAIN-SUFFIX,ipapi.co,Googleplay
+  - DOMAIN-SUFFIX,ip-api.com,Googleplay
+  - DOMAIN-SUFFIX,api.ip.sb,Googleplay
   - DOMAIN-SUFFIX,IPInfo.io,Googleplay
-
+  - DOMAIN-SUFFIX,ipip.net,Googleplay
+  - DOMAIN-SUFFIX,skk.moe,Googleplay
   - DOMAIN-KEYWORD,game,Proxies
   - DOMAIN-KEYWORD,gvt1,Proxies
   - DOMAIN-KEYWORD,googlevideo.com,Proxies
   - DOMAIN-KEYWORD,lra8j.com,DIRECT
   - DOMAIN-KEYWORD,cn,DIRECT
   - DOMAIN,play-fe.googleapis.com,Googleplay
- 
+  - IP-CIDR,172.217.160.110/32,Googleplay
+  - IP-CIDR,172.217.163.46/32,Googleplay
+  - IP-CIDR,172.217.160.78/32,Googleplay
+  - IP-CIDR,142.251.42.238/32,Googleplay
+  - IP-CIDR,142.251.43.14/32,Googleplay
+  - IP-CIDR,142.251.220.77/32,Googleplay
+  - IP-CIDR,142.251.42.237/32,Googleplay
+  - IP-CIDR,172.217.163.45/32,Googleplay
+  - IP-CIDR,142.250.204.78/32,Googleplay
+  - IP-CIDR,142.250.66.142/32,Googleplay
   - DOMAIN-SUFFIX,1password.com,DIRECT
   - DOMAIN-SUFFIX,vultr.com,DIRECT
   - DOMAIN-SUFFIX,mb3admin.com,DIRECT
